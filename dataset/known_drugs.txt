@@ -1,0 +1,328 @@
+Daunorubicin
+Selumetinib
+Vemurafenib
+Imatinib
+Sorafenib
+Idarubicin
+Pegylated IFN-alpha-2a
+TG101348
+17-AAG
+Temozolomide
+Crizotinib
+Nilotinib
+Gefitinib
+Erlotinib
+Cetuximab
+Alectinib
+TAE684
+Trametinib
+Dasatinib
+Crenolanib
+Dabrafenib
+Motesanib
+AZD1480
+Dacarbazine
+Regorafenib
+PD0325901
+Panitumumab
+GDC0941
+PLX4720
+Nutlin-3
+Capecitabine
+Bevacizumab
+All-trans Retinoic Acid
+SU5614
+Cytarabine
+PD173074
+Valproic Acid
+NSC348884
+Anti-CD33
+Anti-CD123
+Induction Therapy
+Rapamycin
+Everolimus
+Olaparib
+MK-2206
+Dacomitinib
+Lapatinib
+Hormone Therapy
+Palbociclib
+BYL719
+Pemetrexed
+Staurosporine
+Neratinib
+Tamoxifen
+Fulvestrant
+Ponatinib
+Pazopanib
+Lestaurtinib
+AG1296
+Bortezomib
+Fasudil
+Sunitinib
+ARRY-142886
+BEZ235
+Carmustine
+O-benzylguanine
+CH5132799
+MTOR Inhibitors
+Doxorubicin
+GW-2580
+OSI-906
+Cabazitaxel
+Docetaxel
+Ibrutinib
+JW55
+G007-LK
+ARN-509
+Enzalutamide
+Bicalutamide
+KU-0060648
+NU7441
+Alisertib
+Cisplatin
+Paclitaxel
+Exemestane
+Temsirolimus
+Trastuzumab
+Gemcitabine
+6-mercaptopurine
+6-thioguanine
+Nelarabine
+Arabinosylguanine
+AEE788
+Rociletinib
+Carboplatin
+Vinorelbine
+5-fluorouracil
+FolfoxProtocol
+Irinotecan
+Onartuzumab
+PLATINUM
+EGFR Inhibitor
+Vandetanib
+Binimetinib
+AZD8055
+Pembrolizumab
+Nivolumab
+GSK2141795
+AZD5363
+Pictilisib
+AZD8186
+LY294002
+Buparlisib
+GSK321
+Idelalisib
+CBL0137
+Vismodegib
+Arsenic Trioxide
+PSI
+SB202190
+AKTi-1/2
+Cabozantinib
+Afatinib
+Anti-ERBB3 Agents
+Nimotuzumab
+WZ4002
+LY2835219
+PD0332991
+Foretinib
+BGJ398
+Dovitinib Dilactic Acid
+SU-5402
+Dovitinib
+JSI-124
+NOTCH1 Antibody
+Patritumab
+Lonafarnib
+Stattic
+L-Folinic Acid
+Decitabine
+Aminoglutethimide
+Oxaliplatin
+RG7356
+Conatumumab
+Ceritinib
+AUY922
+Lorlatinib
+AV-203
+Abiraterone
+9F7-F11
+Pertuzumab
+Ganetespib
+SN-38
+Taxane
+BMN-673
+Ridaforolimus
+GNE-617
+Salinomycin
+Topotecan
+Cyclophosphamide
+ACLY SiRNA
+Anti-EGFR Monoclonal Antibody
+IGF1R Monoclonal Antibody
+Epirubicin
+Raltitrexed
+Enzastaurin
+PP242
+WYE354
+Amrubicin
+IMO
+Monomethyl Auristatin E
+L-asparaginase
+Osimertinib
+Rindopepimut
+ARRY-470
+AGI-5198
+Atezolizumab
+RAF265
+RO4987655
+BAY 86-9766
+SCH772984
+R1507
+Quizartinib
+Trastuzumab Emtansine
+Sym004
+Saridegib
+OICR-9429
+Midostaurin
+4-hydroxytamoxifen
+Anthracycline
+AZ909
+GDC-0623
+G-573
+Cobimetinib
+PD-1 Inhibitor
+TIM-3 Inhibitor
+CP724714
+Antiangiogenic Therapy
+Avelumab
+ARS-853
+Ixazomib
+AZD5438
+Capmatinib
+WHI-P154
+4-pyrimidinediamine
+IPI-504
+17-DMAG
+JQ1
+Farnesylthiosalicylic Acid
+Metformin
+Vorinostat
+Trichostatin A
+LBH-589
+Mocetinostat
+MC1568
+Brigatinib
+AZD3463
+LY3009120
+CH5424802
+Nicotinamide
+Mitomycin C
+Chlorambucil
+Melphalan
+FOLFIRI Regimen
+Flavopiridol
+A66
+Tgx 221
+Spliceostatin A
+GDC-0879
+Omipalisib
+Cc-223
+MLN0128
+XL147
+MEK Inhibitor
+TAK-733
+Taselisib
+AZ628
+VTX-11e
+Amuvatinib
+LDE225
+Alemtuzumab
+Ipatasertib
+GSK126
+Ipilimumab
+Flutamide
+Nilutamide
+Cyproterone Acetate
+LGK974
+PD184352
+Letrozole
+RapaLink-1
+Apitolisib
+Aspirin
+Ribociclib
+PI3K Inhibitor
+Nintedanib
+Ruxolitinib
+Alpelisib
+Perifosine
+Irbesartan
+IRAK-1/4 Inhibitor
+IMG-2005-5
+Refametinib
+Procarbazine
+Vincristine
+Lomustine
+Cediranib
+I-BET151
+SGX523
+Aromatase Inhibitor
+SGK1-Inh
+BMS-387032
+Dinaciclib
+EPZ-6438
+JQ1 Compound
+Lenalidomide
+Pomalidomide
+Belinostat
+5-FU
+Tegafur
+Methotrexate
+Cixutumumab
+Savolitinib
+Entrectinib
+MEDI4736
+MEDI0680
+Linsitinib
+Rucaparib
+Adoptive T-cell Transfer
+BGJ-398
+JNJ-42756493
+AKT3 Inhibitor
+CX-3543
+CX-5461
+AEB071
+5-Fluoropyrimidine
+AZD4547
+Ado-trastuzumab Emtansine
+PI103
+PF 00299804
+Canertinib
+EAP Protocol
+AG-120
+Bis-2-[5--1
+4-thiadiazol-2-yl]ethyl Sulfide
+FGF/VEGF Receptor Tyrosine Kinase Inhibitor
+ PD173074
+Larotrectinib
+Nutlin-3a
+AMGMDS3
+RG7112
+CTLA-4 Antibody
+PD-L1 Antibody
+UNC1062
+MLN518
+SU11248
+PD-180970
+BMS-354825
+AZD-5363
+Radioactive Iodine
+FOLFOX4
+VEGF Inhibition
+Enasidenib
+Talazoparib
+Abemaciclib
+Durvalumab
+AZD7762
+Rilotumumab
